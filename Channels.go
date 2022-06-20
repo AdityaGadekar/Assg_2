@@ -20,4 +20,3 @@ func GetChannel() chan int {
 	}()
 	return ch
 }
-
